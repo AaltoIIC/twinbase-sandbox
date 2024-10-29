@@ -1,0 +1,5 @@
+dt-id: autoassign|https://dtid.org
+hosting-iri: autoassign
+name: "Turbine component 1",
+description: "A turbine component for a windmill to be used to construct a torsional vibration analysis via a digital design template."
+
