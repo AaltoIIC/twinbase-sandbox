@@ -1,4 +1,8 @@
 dt-id: https://aaltoiic.github.io/oteditor-twinbase/6613f871-e0f2-4b9a-94b7-5f816c3f9c35
-hosting-iri: https://bit.ly/3YH6wQV
-name: "Turbine component 1"
-description: "A turbine component for a windmill to be used to construct a torsional vibration analysis via a digital design template."
+hosting-iri: https://AaltoIIC.github.io/oteditor-twinbase/6613f871-e0f2-4b9a-94b7-5f816c3f9c35
+name: Turbine component 1
+description: A turbine component for a windmill to be used to construct a torsional
+  vibration analysis via a digital design template.
+baseurl: https://AaltoIIC.github.io/oteditor-twinbase
+edit: https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/6613f871-e0f2-4b9a-94b7-5f816c3f9c35/index.yaml
+edit-json: https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/6613f871-e0f2-4b9a-94b7-5f816c3f9c35/index.json

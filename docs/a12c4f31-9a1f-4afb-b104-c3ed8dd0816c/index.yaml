@@ -1,4 +1,7 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
-name: "Test component"
-description: "Lorem ipsum"
+dt-id: https://dtid.org/a12c4f31-9a1f-4afb-b104-c3ed8dd0816c
+hosting-iri: https://AaltoIIC.github.io/oteditor-twinbase/a12c4f31-9a1f-4afb-b104-c3ed8dd0816c
+name: Test component
+description: Lorem ipsum
+baseurl: https://AaltoIIC.github.io/oteditor-twinbase
+edit: https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/a12c4f31-9a1f-4afb-b104-c3ed8dd0816c/index.yaml
+edit-json: https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/a12c4f31-9a1f-4afb-b104-c3ed8dd0816c/index.json

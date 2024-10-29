@@ -1,4 +1,7 @@
-dt-id: "https://bit.ly/3NK6JMM"
-hosting-iri: autoassign
-name: "Test component 2"
-description: "Some description"
+dt-id: https://bit.ly/3NK6JMM
+hosting-iri: https://AaltoIIC.github.io/oteditor-twinbase/69068e89-f8c8-4a03-9e1b-b44a88e84032
+name: Test component 2
+description: Some description
+baseurl: https://AaltoIIC.github.io/oteditor-twinbase
+edit: https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/69068e89-f8c8-4a03-9e1b-b44a88e84032/index.yaml
+edit-json: https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/69068e89-f8c8-4a03-9e1b-b44a88e84032/index.json
