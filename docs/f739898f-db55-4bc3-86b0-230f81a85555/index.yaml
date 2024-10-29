@@ -1,0 +1,4 @@
+dt-id: autoassign|https://dtid.org
+hosting-iri: autoassign
+name: "Windmill rotor"
+description: "A windwmill rotor componenent to be used in OpenTorsion Editor for torsional vibration analysis."
