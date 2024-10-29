@@ -1,8 +1,13 @@
 dt-id: https://dtid.org/32fd70cb-c83c-41ab-9372-148223a04d47
 hosting-iri: https://AaltoIIC.github.io/oteditor-twinbase/32fd70cb-c83c-41ab-9372-148223a04d47
-name: Turbine 1
-description: A turbine component for a windmill to be used to construct a torsional
-  vibration analysis via a digital design template.
+name: Windmill Turbine
+description: A turbine componenent for a windmill to be used in OpenTorsion Editor
+  for torsional vibration analysis.
 baseurl: https://AaltoIIC.github.io/oteditor-twinbase
 edit: https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/32fd70cb-c83c-41ab-9372-148223a04d47/index.yaml
 edit-json: https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/32fd70cb-c83c-41ab-9372-148223a04d47/index.json
+elements:
+- name: Disk 1
+  type: Disk
+  inertia: 9200000
+  damping: 0
