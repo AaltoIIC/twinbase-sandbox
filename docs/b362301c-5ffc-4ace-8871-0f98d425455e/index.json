@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/b362301c-5ffc-4ace-8871-0f98d425455e",
+    "hosting-iri": "https://AaltoIIC.github.io/oteditor-twinbase/b362301c-5ffc-4ace-8871-0f98d425455e",
+    "name": "Shaft component",
+    "description": "A shaft componenent to be used in OpenTorsion Editor for torsional vibration analysis.",
+    "baseurl": "https://AaltoIIC.github.io/oteditor-twinbase",
+    "edit": "https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/b362301c-5ffc-4ace-8871-0f98d425455e/index.yaml",
+    "edit-json": "https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/b362301c-5ffc-4ace-8871-0f98d425455e/index.json"
+}
