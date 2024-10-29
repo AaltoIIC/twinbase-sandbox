@@ -5,5 +5,13 @@
     "description": "A shaft componenent to be used in OpenTorsion Editor for torsional vibration analysis.",
     "baseurl": "https://AaltoIIC.github.io/oteditor-twinbase",
     "edit": "https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/b362301c-5ffc-4ace-8871-0f98d425455e/index.yaml",
-    "edit-json": "https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/b362301c-5ffc-4ace-8871-0f98d425455e/index.json"
+    "edit-json": "https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/b362301c-5ffc-4ace-8871-0f98d425455e/index.json",
+    "elements": [
+		{
+			"name": "Shaft 1",
+			"type": "ShaftDiscrete",
+			"damping": 0,
+			"stiffness": 368000000
+		}
+	]
 }
