@@ -1,4 +1,8 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
-name: "Turbine 1"
-description: "A turbine component for a windmill to be used to construct a torsional vibration analysis via a digital design template."
+dt-id: https://dtid.org/32fd70cb-c83c-41ab-9372-148223a04d47
+hosting-iri: https://AaltoIIC.github.io/oteditor-twinbase/32fd70cb-c83c-41ab-9372-148223a04d47
+name: Turbine 1
+description: A turbine component for a windmill to be used to construct a torsional
+  vibration analysis via a digital design template.
+baseurl: https://AaltoIIC.github.io/oteditor-twinbase
+edit: https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/32fd70cb-c83c-41ab-9372-148223a04d47/index.yaml
+edit-json: https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/32fd70cb-c83c-41ab-9372-148223a04d47/index.json
