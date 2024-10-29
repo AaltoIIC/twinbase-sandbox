@@ -1,9 +1,0 @@
-{
-    "dt-id": "https://dtid.org/b403f413-646d-4216-a2d4-69ddad53e021",
-    "hosting-iri": "https://AaltoIIC.github.io/oteditor-twinbase/b403f413-646d-4216-a2d4-69ddad53e021",
-    "name": "Test twin",
-    "description": "Lorem ipsum",
-    "baseurl": "https://AaltoIIC.github.io/oteditor-twinbase",
-    "edit": "https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/b403f413-646d-4216-a2d4-69ddad53e021/index.yaml",
-    "edit-json": "https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/b403f413-646d-4216-a2d4-69ddad53e021/index.json"
-}
