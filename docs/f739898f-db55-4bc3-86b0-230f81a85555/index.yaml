@@ -1,4 +1,8 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
-name: "Windmill rotor"
-description: "A windwmill rotor componenent to be used in OpenTorsion Editor for torsional vibration analysis."
+dt-id: https://dtid.org/f739898f-db55-4bc3-86b0-230f81a85555
+hosting-iri: https://AaltoIIC.github.io/oteditor-twinbase/f739898f-db55-4bc3-86b0-230f81a85555
+name: Windmill rotor
+description: A windwmill rotor componenent to be used in OpenTorsion Editor for torsional
+  vibration analysis.
+baseurl: https://AaltoIIC.github.io/oteditor-twinbase
+edit: https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/f739898f-db55-4bc3-86b0-230f81a85555/index.yaml
+edit-json: https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/f739898f-db55-4bc3-86b0-230f81a85555/index.json
