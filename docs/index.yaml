@@ -20,5 +20,7 @@ twins:
   name: Example twin
 - url: https://AaltoIIC.github.io/oteditor-twinbase/a12c4f31-9a1f-4afb-b104-c3ed8dd0816c
   name: Test component
+- url: https://AaltoIIC.github.io/oteditor-twinbase/b403f413-646d-4216-a2d4-69ddad53e021
+  name: Test twin
 - url: https://AaltoIIC.github.io/oteditor-twinbase/a2fd6af9-d1ff-4c7d-bf10-6fec70f80ddf
   name: test 5
