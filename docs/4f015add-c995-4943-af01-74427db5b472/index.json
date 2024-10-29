@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/4f015add-c995-4943-af01-74427db5b472",
+    "hosting-iri": "https://AaltoIIC.github.io/oteditor-twinbase/4f015add-c995-4943-af01-74427db5b472",
+    "name": "Test 4",
+    "description": "Lorem ipsum",
+    "baseurl": "https://AaltoIIC.github.io/oteditor-twinbase",
+    "edit": "https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/4f015add-c995-4943-af01-74427db5b472/index.yaml",
+    "edit-json": "https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/4f015add-c995-4943-af01-74427db5b472/index.json"
+}
