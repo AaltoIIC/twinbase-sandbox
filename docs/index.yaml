@@ -8,3 +8,5 @@ twins:
   name: Windmill Turbine
 - url: https://AaltoIIC.github.io/oteditor-twinbase/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
+- url: https://AaltoIIC.github.io/oteditor-twinbase/b362301c-5ffc-4ace-8871-0f98d425455e
+  name: Shaft component
