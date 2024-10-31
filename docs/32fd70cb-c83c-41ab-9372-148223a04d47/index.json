@@ -4,8 +4,8 @@
     "name": "Windmill Turbine",
     "description": "A turbine componenent for a windmill to be used in OpenTorsion Editor for torsional vibration analysis.",
     "baseurl": "https://AaltoIIC.github.io/twinbase-sandbox",
-    "edit": "https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/32fd70cb-c83c-41ab-9372-148223a04d47/index.yaml",
-    "edit-json": "https://github.com/AaltoIIC/oteditor-twinbase/edit/main/docs/32fd70cb-c83c-41ab-9372-148223a04d47/index.json",
+    "edit": "https://github.com/AaltoIIC/twinbase-sandbox/edit/main/docs/32fd70cb-c83c-41ab-9372-148223a04d47/index.yaml",
+    "edit-json": "https://github.com/AaltoIIC/twinbase-sandbox/edit/main/docs/32fd70cb-c83c-41ab-9372-148223a04d47/index.json",
     "type": "torsionalModel",
     "elements": [
         {
