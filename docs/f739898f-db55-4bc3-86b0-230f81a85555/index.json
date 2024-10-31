@@ -6,6 +6,7 @@
     "baseurl": "https://AaltoIIC.github.io/twinbase-sandbox",
     "edit": "https://github.com/AaltoIIC/twinbase-sandbox/edit/main/docs/f739898f-db55-4bc3-86b0-230f81a85555/index.yaml",
     "edit-json": "https://github.com/AaltoIIC/twinbase-sandbox/edit/main/docs/f739898f-db55-4bc3-86b0-230f81a85555/index.json",
+    "type": "torsionalModel",
     "elements": [
         {
             "name": "Disk 1",
