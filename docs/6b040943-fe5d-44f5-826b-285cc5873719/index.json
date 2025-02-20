@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/6b040943-fe5d-44f5-826b-285cc5873719",
+    "hosting-iri": "https://AaltoIIC.github.io/twinbase-sandbox/6b040943-fe5d-44f5-826b-285cc5873719",
+    "name": "Change me!",
+    "description": "Test",
+    "baseurl": "https://AaltoIIC.github.io/twinbase-sandbox",
+    "edit": "https://github.com/AaltoIIC/twinbase-sandbox/edit/main/docs/6b040943-fe5d-44f5-826b-285cc5873719/index.yaml",
+    "edit-json": "https://github.com/AaltoIIC/twinbase-sandbox/edit/main/docs/6b040943-fe5d-44f5-826b-285cc5873719/index.json"
+}
